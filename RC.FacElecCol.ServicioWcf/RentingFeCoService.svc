@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="RC.FacElecCol.ServicioWcf.RentingFeCoService" CodeBehind="RentingFeCoService.svc.cs" %>
